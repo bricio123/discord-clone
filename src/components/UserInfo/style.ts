@@ -39,6 +39,7 @@ export const UserData = styled.div`
   }
 `;
 export const Icons = styled.div`
+
   display: flex;
   align-items: center;
 
